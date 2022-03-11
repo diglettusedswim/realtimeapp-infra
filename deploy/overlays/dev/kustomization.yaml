@@ -14,4 +14,4 @@ images:
 - name: diglettusedswim/flux-rt
   newTag: sha-11e921f
 - name: kylekillian/flux-rt
-  newTag: sha-c9300cf
+  newTag: sha-c097afc
